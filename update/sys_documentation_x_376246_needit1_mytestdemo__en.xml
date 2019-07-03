@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="needit" language="en" table="x_376246_needit1_mytestdemo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>needit</label>
+            <language>en</language>
+            <name>x_376246_needit1_mytestdemo</name>
+            <plural>needits</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-03 10:35:04</sys_created_on>
+            <sys_id>d8d1a0e7db52330043500d53ca9619e1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>needit</sys_name>
+            <sys_package display_value="Needit1" source="x_376246_needit1">6651a4a7db52330043500d53ca96198f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needit1">6651a4a7db52330043500d53ca96198f</sys_scope>
+            <sys_update_name>sys_documentation_x_376246_needit1_mytestdemo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-03 11:28:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
